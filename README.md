@@ -1,1 +1,1 @@
-created a landingpage
+Created a landingpage
